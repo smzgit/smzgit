@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Associate Software Engineer @Amdocs**
 
-- 📫 Connect with reach me : **sourabhzambre123@gmail.com**
+- 📫 Connect with reach me at : **sourabhzambre123@gmail.com**
 
 - 📄 Know more about my experiences [<a href="https://drive.google.com/file/d/15q_Yampp4hhCIDevrvp9W8bzGFOp4bgV/view?usp=sharing">My Resume</a>]
 
