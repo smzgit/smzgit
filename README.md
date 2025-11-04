@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Zambre</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working as ** Software Engineer**
+- 🔭 I’m currently working as **SDE II**
 
 - 📫 Connect with me at : **sourabhzambre123@gmail.com**
 
